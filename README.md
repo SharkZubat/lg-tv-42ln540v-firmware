@@ -6,9 +6,9 @@ This directory contains files extracted from the LG 42LN540V television firmware
 
 * **Original Developer:** LG Electronics
 * **Target Device:** LG 42LN540V
-* **Original Firmware File Name (if known):** [Specify the original .epk file name]
+* **Original Firmware File Name:** MP_M1_DVB_RevNo7163_V04.20.02_usb_V2_SECURED.epk
 * **Extraction Date:** ??/??/2024
-* **Extraction Tool Used (if applicable):** epk2extract
+* **Extraction Tool Used:** epk2extract
 
 ## Contents
 
