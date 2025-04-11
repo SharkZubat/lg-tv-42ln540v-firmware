@@ -1,0 +1,2 @@
+Source: Firmware originally developed by LG Electronics for 42LN540V.
+Extraction performed from an .epk file.
