@@ -16,7 +16,7 @@ This directory contains various extracted components, including:
 
 * SquashFS file systems (directories ending in `.unquashfs`)
 * `.pak` archive files containing different software modules
-* Kernel files (`kem.pak` and related)
+* Kernel files (`kern.pak` and related)
 * Application files (e.g., `igap.pak`)
 * The boot logo (`logo.jpg`)
 * Other configuration and data files
