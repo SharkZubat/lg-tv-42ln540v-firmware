@@ -25,12 +25,13 @@ See individual directory and file names for more details.
 
 ## Purpose (Optional)
 
-[your purpose here]
+Original Zip File: Software File(Version 04.20.02).zip
+Original EPK File: MP_M1_DVB_RevNo7163_V04.20.02_usb_V2_SECURED.epk
 
 ## Notes and Considerations (Optional)
 
-[your notes here]
+If you need help for more assets, find more assets and extract it if you want 
 
 ## Credits
 
-The original firmware for the LG 42LN540V television was developed and is the intellectual property of LG Electronics. The extraction of these files was performed for [your intended purpose] and does not imply any endorsement or affiliation with LG Electronics.
+The original firmware for the LG 42LN540V television was developed and is the intellectual property of LG Electronics. The extraction of these files was performed for "MP_M1_DVB_RevNo7163_V04.20.02_usb_V2_SECURED.epk" and does not imply any endorsement or affiliation with LG Electronics.
